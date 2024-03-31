@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/hector_nav_msgs/lib/python3/dist-packages/hector_nav_msgs/srv/_GetRecoveryInfo.py

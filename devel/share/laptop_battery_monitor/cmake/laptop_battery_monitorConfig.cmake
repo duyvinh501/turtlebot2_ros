@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/laptop_battery_monitor/share/laptop_battery_monitor/cmake/laptop_battery_monitorConfig.cmake

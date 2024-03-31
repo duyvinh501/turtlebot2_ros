@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/yocs_msgs/share/common-lisp/ros/yocs_msgs/srv/yocs_msgs-srv.asd

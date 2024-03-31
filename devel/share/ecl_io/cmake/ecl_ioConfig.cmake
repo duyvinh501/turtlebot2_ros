@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_io/share/ecl_io/cmake/ecl_ioConfig.cmake

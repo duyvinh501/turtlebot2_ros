@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_msgs/share/roseus/ros/kobuki_msgs/msg/DigitalInputEvent.l

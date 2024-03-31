@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/create_msgs/share/gennodejs/ros/create_msgs/msg/Bumper.js

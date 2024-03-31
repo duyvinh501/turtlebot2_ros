@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake

@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_errors/lib/pkgconfig/ecl_errors.pc

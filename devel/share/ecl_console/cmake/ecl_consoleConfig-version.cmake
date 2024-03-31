@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_console/share/ecl_console/cmake/ecl_consoleConfig-version.cmake

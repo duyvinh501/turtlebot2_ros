@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/imu_vn_100/lib/pkgconfig/imu_vn_100.pc

@@ -1,0 +1,15 @@
+\subsubsection usage Usage
+\verbatim
+<node name="self_localization" pkg="self_localization" type="self_localization">
+  <param name="inflation_radius" type="double" value="0.3" />
+  <param name="robot_radius" type="double" value="0.2" />
+  <param name="laserscan_circle_step" type="int" value="1" />
+  <param name="range_step" type="int" value="3" />
+  <param name="laserscan_anglar_step" type="int" value="6" />
+  <param name="min_valid_range" type="double" value="0.0" />
+  <param name="max_valid_range" type="double" value="10.0" />
+  <param name="quick_score" type="bool" value="True" />
+  <param name="quick_score_num" type="int" value="8" />
+</node>
+\endverbatim
+

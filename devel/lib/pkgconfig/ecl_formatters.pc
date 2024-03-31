@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_formatters/lib/pkgconfig/ecl_formatters.pc

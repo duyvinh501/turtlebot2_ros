@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_msgs/share/gennodejs/ros/turtlebot_msgs/srv/_index.js

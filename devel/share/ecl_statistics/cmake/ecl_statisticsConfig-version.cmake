@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_statistics/share/ecl_statistics/cmake/ecl_statisticsConfig-version.cmake

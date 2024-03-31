@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_type_traits/share/ecl_type_traits/cmake/ecl_type_traitsConfig-version.cmake

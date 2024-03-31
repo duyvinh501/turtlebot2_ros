@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_stage/lib/pkgconfig/turtlebot_stage.pc

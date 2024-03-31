@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/FindFiducialAction.l

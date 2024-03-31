@@ -1,0 +1,11 @@
+[35m[1mScanning dependencies of target imu_vn_100[0m
+[ 14%] [32mBuilding C object CMakeFiles/imu_vn_100.dir/vncpplib/src/arch/linux/vncp_services.c.o[0m
+[ 28%] [32mBuilding C object CMakeFiles/imu_vn_100.dir/vncpplib/src/vndevice.c.o[0m
+[ 42%] [32mBuilding C object CMakeFiles/imu_vn_100.dir/vncpplib/src/vn100.c.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/imu_vn_100.dir/src/imu_vn_100.cpp.o[0m
+[ 71%] [32m[1mLinking CXX shared library /home/vinh/catkin2_ws/devel/.private/imu_vn_100/lib/libimu_vn_100.so[0m
+[ 71%] Built target imu_vn_100
+[35m[1mScanning dependencies of target imu_vn_100_node[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/imu_vn_100_node.dir/src/imu_vn_100_cont.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/vinh/catkin2_ws/devel/.private/imu_vn_100/lib/imu_vn_100/imu_vn_100_node[0m
+[100%] Built target imu_vn_100_node

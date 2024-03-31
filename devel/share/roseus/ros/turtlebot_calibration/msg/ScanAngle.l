@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_calibration/share/roseus/ros/turtlebot_calibration/msg/ScanAngle.l

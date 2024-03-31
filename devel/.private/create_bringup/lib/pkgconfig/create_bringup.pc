@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/devel/.private/create_bringup
+
+Name: create_bringup
+Description: Description of create_bringup
+Version: 2.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

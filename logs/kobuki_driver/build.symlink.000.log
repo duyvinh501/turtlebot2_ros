@@ -1,0 +1,10 @@
+Symlinking /home/vinh/catkin2_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig-version.cmake
+Symlinking /home/vinh/catkin2_ws/devel/lib/libkobuki.so
+Symlinking /home/vinh/catkin2_ws/devel/lib/pkgconfig/kobuki_driver.pc
+Symlinking /home/vinh/catkin2_ws/devel/lib/kobuki_driver/version_info
+Symlinking /home/vinh/catkin2_ws/devel/lib/kobuki_driver/demo_kobuki_simple_loop
+Symlinking /home/vinh/catkin2_ws/devel/lib/kobuki_driver/demo_kobuki_initialisation
+Symlinking /home/vinh/catkin2_ws/devel/lib/kobuki_driver/simple_keyop
+Symlinking /home/vinh/catkin2_ws/devel/lib/kobuki_driver/demo_kobuki_sigslots
+Symlinking /home/vinh/catkin2_ws/devel/lib/kobuki_driver/kobuki_velocity_commands

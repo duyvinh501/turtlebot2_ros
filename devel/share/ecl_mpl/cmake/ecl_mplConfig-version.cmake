@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_mpl/share/ecl_mpl/cmake/ecl_mplConfig-version.cmake

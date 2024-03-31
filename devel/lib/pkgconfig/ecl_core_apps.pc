@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_core_apps/lib/pkgconfig/ecl_core_apps.pc

@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_navigation/etc/catkin/profile.d/25.turtlebot-navigation.sh

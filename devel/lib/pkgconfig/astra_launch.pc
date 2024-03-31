@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/astra_launch/lib/pkgconfig/astra_launch.pc

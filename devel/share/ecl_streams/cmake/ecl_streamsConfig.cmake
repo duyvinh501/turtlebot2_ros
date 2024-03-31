@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_streams/share/ecl_streams/cmake/ecl_streamsConfig.cmake

@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_dashboard/lib/python3/dist-packages/kobuki_dashboard/__init__.py

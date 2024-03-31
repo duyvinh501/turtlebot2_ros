@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_containers/share/ecl_containers/cmake/ecl_containersConfig.cmake

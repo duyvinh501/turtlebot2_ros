@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_statistics/lib/pkgconfig/ecl_statistics.pc

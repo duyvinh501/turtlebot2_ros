@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/actionlib/share/gennodejs/ros/actionlib/msg/TestActionGoal.js

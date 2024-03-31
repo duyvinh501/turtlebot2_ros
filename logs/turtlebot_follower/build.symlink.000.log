@@ -1,0 +1,11 @@
+Symlinking /home/vinh/catkin2_ws/devel/include/turtlebot_follower/FollowerConfig.h
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_follower/docs/FollowerConfig.wikidoc
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_follower/docs/FollowerConfig.dox
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_follower/docs/FollowerConfig-usage.dox
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_follower/cmake/turtlebot_followerConfig-version.cmake
+Symlinking /home/vinh/catkin2_ws/devel/lib/libturtlebot_follower.so
+Symlinking /home/vinh/catkin2_ws/devel/lib/pkgconfig/turtlebot_follower.pc
+Symlinking /home/vinh/catkin2_ws/devel/lib/python3/dist-packages/turtlebot_follower/__init__.py
+Symlinking /home/vinh/catkin2_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/__init__.py
+Symlinking /home/vinh/catkin2_ws/devel/lib/python3/dist-packages/turtlebot_follower/cfg/FollowerConfig.py

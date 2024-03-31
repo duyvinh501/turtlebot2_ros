@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/devel/.private/ecl_command_line
+
+Name: ecl_command_line
+Description: Description of ecl_command_line
+Version: 0.62.3
+Cflags: -I/home/vinh/catkin2_ws/src/ecl_core/ecl_command_line/include
+Libs: -L${prefix}/lib 
+Requires: 

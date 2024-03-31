@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/devel/.private/ecl_filesystem
+
+Name: ecl_filesystem
+Description: Description of ecl_filesystem
+Version: 0.62.3
+Cflags: -I/home/vinh/catkin2_ws/src/ecl_core/ecl_filesystem/include
+Libs: -L${prefix}/lib -lecl_filesystem
+Requires: ecl_config ecl_errors

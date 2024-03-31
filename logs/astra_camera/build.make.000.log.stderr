@@ -1,0 +1,65 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/assert.h:35[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/common.h:36[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/publisher.h:32[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/home/vinh/catkin2_ws/devel/.private/astra_camera/include/astra_camera/AstraConfig.h:21[m[K,
+                 from [01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/include/astra_camera/astra_driver.h:36[m[K,
+                 from [01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:42[m[K:
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:[m[K In constructor ‘[01m[Kastra_wrapper::AstraDevice::AstraDevice(const string&)[m[K’:
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:60:12:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 8 has type ‘[01m[Kboost::shared_ptr<openni::Device>::element_type*[m[K’ {aka ‘[01m[Kopenni::Device*[m[K’} [[01;35m[K-Wformat=[m[K]
+   60 |   ROS_INFO([01;35m[K"openni_device_: %x"[m[K, [32m[Kopenni_device_.get()[m[K);
+      |            [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                    [32m[K|[m[K
+      |                                                    [32m[Kboost::shared_ptr<openni::Device>::element_type* {aka openni::Device*}[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:60:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   60 |   [01;36m[KROS_INFO[m[K("openni_device_: %x", openni_device_.get());
+      |   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:60:30:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   60 |   ROS_INFO("openni_device_: [01;36m[K%x[m[K", openni_device_.get());
+      |                             [01;36m[K~^[m[K
+      |                              [01;36m[K|[m[K
+      |                              [01;36m[Kunsigned int[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/assert.h:35[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/common.h:36[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/publisher.h:32[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/home/vinh/catkin2_ws/devel/.private/astra_camera/include/astra_camera/AstraConfig.h:21[m[K,
+                 from [01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/include/astra_camera/astra_driver.h:36[m[K,
+                 from [01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:42[m[K:
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:62:12:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%x[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 8 has type ‘[01m[Kboost::shared_ptr<openni::Device>::element_type*[m[K’ {aka ‘[01m[Kopenni::Device*[m[K’} [[01;35m[K-Wformat=[m[K]
+   62 |   ROS_INFO([01;35m[K"openni_device_: %x, uri:%s"[m[K, [32m[Kopenni_device_.get()[m[K, device_URI.c_str());
+      |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                            [32m[K|[m[K
+      |                                                            [32m[Kboost::shared_ptr<openni::Device>::element_type* {aka openni::Device*}[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:62:3:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   62 |   [01;36m[KROS_INFO[m[K("openni_device_: %x, uri:%s", openni_device_.get(), device_URI.c_str());
+      |   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/vinh/catkin2_ws/src/ros_astra_camera/src/astra_device.cpp:62:30:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   62 |   ROS_INFO("openni_device_: [01;36m[K%x[m[K, uri:%s", openni_device_.get(), device_URI.c_str());
+      |                             [01;36m[K~^[m[K
+      |                              [01;36m[K|[m[K
+      |                              [01;36m[Kunsigned int[m[K

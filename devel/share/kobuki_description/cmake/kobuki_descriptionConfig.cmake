@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_description/share/kobuki_description/cmake/kobuki_descriptionConfig.cmake

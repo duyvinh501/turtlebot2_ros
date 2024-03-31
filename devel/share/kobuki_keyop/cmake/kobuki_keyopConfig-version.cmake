@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_keyop/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake

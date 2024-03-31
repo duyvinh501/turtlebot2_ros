@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/install
+
+Name: imu_vn_100
+Description: Description of imu_vn_100
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -limu_vn_100
+Requires: diagnostic_updater roscpp sensor_msgs

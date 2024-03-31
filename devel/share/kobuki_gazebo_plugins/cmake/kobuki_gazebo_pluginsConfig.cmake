@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_gazebo_plugins/share/kobuki_gazebo_plugins/cmake/kobuki_gazebo_pluginsConfig.cmake

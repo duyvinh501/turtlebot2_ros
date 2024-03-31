@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_formatters/share/ecl_formatters/cmake/ecl_formattersConfig.cmake

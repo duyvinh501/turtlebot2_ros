@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/astra_camera/share/roseus/ros/astra_camera/srv/GetDeviceType.l

@@ -1,0 +1,15 @@
+Symlinking /home/vinh/catkin2_ws/devel/include/self_localization/LocalizationConfig.h
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/docs/LocalizationConfig-usage.dox
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/docs/LocalizationConfig.dox
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/docs/LocalizationConfig.wikidoc
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/cmake/self_localizationConfig-version.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/cmake/self_localizationConfig.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/cmake/self_localization-msg-paths.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/self_localization/cmake/self_localization-msg-extras.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/roseus/ros/self_localization/manifest.l
+Symlinking /home/vinh/catkin2_ws/devel/lib/libself_localization.so
+Symlinking /home/vinh/catkin2_ws/devel/lib/pkgconfig/self_localization.pc
+Symlinking /home/vinh/catkin2_ws/devel/lib/self_localization/self_localization_node
+Symlinking /home/vinh/catkin2_ws/devel/lib/python3/dist-packages/self_localization/__init__.py
+Symlinking /home/vinh/catkin2_ws/devel/lib/python3/dist-packages/self_localization/cfg/__init__.py
+Symlinking /home/vinh/catkin2_ws/devel/lib/python3/dist-packages/self_localization/cfg/LocalizationConfig.py

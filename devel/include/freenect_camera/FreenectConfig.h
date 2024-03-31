@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/freenect_camera/include/freenect_camera/FreenectConfig.h

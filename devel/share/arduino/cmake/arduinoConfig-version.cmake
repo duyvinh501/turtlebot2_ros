@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/arduino/share/arduino/cmake/arduinoConfig-version.cmake

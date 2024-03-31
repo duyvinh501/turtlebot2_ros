@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_actions/lib/python3/dist-packages/turtlebot_actions/msg/_FindFiducialFeedback.py

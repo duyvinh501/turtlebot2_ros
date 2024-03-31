@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_rapps/lib/pkgconfig/turtlebot_rapps.pc

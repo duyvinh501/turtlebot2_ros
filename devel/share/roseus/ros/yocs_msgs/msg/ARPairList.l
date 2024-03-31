@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/yocs_msgs/share/roseus/ros/yocs_msgs/msg/ARPairList.l

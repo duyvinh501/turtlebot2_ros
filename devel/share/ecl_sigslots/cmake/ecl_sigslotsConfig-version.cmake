@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_sigslots/share/ecl_sigslots/cmake/ecl_sigslotsConfig-version.cmake

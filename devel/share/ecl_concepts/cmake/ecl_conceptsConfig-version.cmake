@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_concepts/share/ecl_concepts/cmake/ecl_conceptsConfig-version.cmake

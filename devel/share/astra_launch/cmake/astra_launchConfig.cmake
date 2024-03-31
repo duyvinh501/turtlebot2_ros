@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/astra_launch/share/astra_launch/cmake/astra_launchConfig.cmake

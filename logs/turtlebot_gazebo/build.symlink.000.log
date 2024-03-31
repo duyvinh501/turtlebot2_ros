@@ -1,0 +1,4 @@
+Symlinking /home/vinh/catkin2_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake
+Symlinking /home/vinh/catkin2_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc

@@ -1,0 +1,14 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~inflation_radius" : \b [double] The inflation radius(m) min: 0.0, default: 0.3, max: 1.0
+- \b "~robot_radius" : \b [double] The robot radius(m) min: 0.0, default: 0.2, max: 0.5
+- \b "~laserscan_circle_step" : \b [int] Laser scan sampled every circle min: 1, default: 1, max: 10
+- \b "~range_step" : \b [int] Robot location sample step(pixel) min: 1, default: 3, max: 10
+- \b "~laserscan_anglar_step" : \b [int] At each location, we sampled the anglar(degree) min: 1, default: 6, max: 10
+- \b "~min_valid_range" : \b [double] The minimum valid range(m) min: 0.0, default: 0.0, max: 1.0
+- \b "~max_valid_range" : \b [double] The maximum valid range(m) min: 0.0, default: 10.0, max: 40.0
+- \b "~quick_score" : \b [bool] Using quick score min: False, default: True, max: True
+- \b "~quick_score_num" : \b [int] The quick score number min: 4, default: 8, max: 20
+

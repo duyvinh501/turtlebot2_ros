@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/install
+
+Name: turtlebot3_teleop_save
+Description: Description of turtlebot3_teleop_save
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_msgs/share/roseus/ros/turtlebot_msgs/msg/PanoramaImg.l

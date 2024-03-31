@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/devel/.private/turtlebot_vibot_nav
+
+Name: turtlebot_vibot_nav
+Description: Description of turtlebot_vibot_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

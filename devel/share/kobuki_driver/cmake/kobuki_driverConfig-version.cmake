@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_driver/share/kobuki_driver/cmake/kobuki_driverConfig-version.cmake

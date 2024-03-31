@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/create_msgs/lib/python3/dist-packages/create_msgs/msg/__init__.py

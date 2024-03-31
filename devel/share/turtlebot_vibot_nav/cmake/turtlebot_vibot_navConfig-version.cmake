@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_vibot_nav/share/turtlebot_vibot_nav/cmake/turtlebot_vibot_navConfig-version.cmake

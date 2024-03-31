@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/freenect_launch/share/freenect_launch/cmake/freenect_launchConfig-version.cmake

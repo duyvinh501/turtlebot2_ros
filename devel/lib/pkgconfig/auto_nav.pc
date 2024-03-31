@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/auto_nav/lib/pkgconfig/auto_nav.pc

@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/freenect_launch/lib/pkgconfig/freenect_launch.pc

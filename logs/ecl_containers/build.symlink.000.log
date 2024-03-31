@@ -1,0 +1,4 @@
+Symlinking /home/vinh/catkin2_ws/devel/share/ecl_containers/cmake/ecl_containersConfig-version.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/ecl_containers/cmake/ecl_containersConfig.cmake
+Symlinking /home/vinh/catkin2_ws/devel/lib/ecl_containers/demo_container_formatters
+Symlinking /home/vinh/catkin2_ws/devel/lib/pkgconfig/ecl_containers.pc

@@ -1,0 +1,8 @@
+prefix=/home/vinh/catkin2_ws/devel/.private/turtlebot_vibot_bringup
+
+Name: turtlebot_vibot_bringup
+Description: Description of turtlebot_vibot_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

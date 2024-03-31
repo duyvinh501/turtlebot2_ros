@@ -1,0 +1,4 @@
+Symlinking /home/vinh/catkin2_ws/devel/share/ecl_ipc/cmake/ecl_ipcConfig.cmake
+Symlinking /home/vinh/catkin2_ws/devel/share/ecl_ipc/cmake/ecl_ipcConfig-version.cmake
+Symlinking /home/vinh/catkin2_ws/devel/lib/libecl_ipc.so
+Symlinking /home/vinh/catkin2_ws/devel/lib/pkgconfig/ecl_ipc.pc

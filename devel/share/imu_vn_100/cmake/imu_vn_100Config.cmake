@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/imu_vn_100/share/imu_vn_100/cmake/imu_vn_100Config.cmake

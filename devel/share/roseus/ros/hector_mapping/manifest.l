@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/hector_mapping/share/roseus/ros/hector_mapping/manifest.l

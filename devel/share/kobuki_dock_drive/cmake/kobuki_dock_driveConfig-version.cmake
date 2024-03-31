@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_dock_drive/share/kobuki_dock_drive/cmake/kobuki_dock_driveConfig-version.cmake

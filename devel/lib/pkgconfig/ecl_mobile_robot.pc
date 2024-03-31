@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_mobile_robot/lib/pkgconfig/ecl_mobile_robot.pc

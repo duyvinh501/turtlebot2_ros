@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vinh/catkin2_ws/devel/.private/kobuki_rapps/setup.sh

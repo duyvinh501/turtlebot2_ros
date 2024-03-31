@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/kobuki_msgs/share/kobuki_msgs/cmake/kobuki_msgs-msg-paths.cmake

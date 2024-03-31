@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_stdr/share/turtlebot_stdr/cmake/turtlebot_stdrConfig.cmake

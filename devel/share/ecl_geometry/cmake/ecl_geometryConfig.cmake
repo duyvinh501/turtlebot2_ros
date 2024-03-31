@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_geometry/share/ecl_geometry/cmake/ecl_geometryConfig.cmake

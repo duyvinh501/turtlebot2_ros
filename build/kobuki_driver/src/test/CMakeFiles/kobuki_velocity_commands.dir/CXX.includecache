@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vinh/catkin2_ws/src/kobuki_core/kobuki_driver/src/test/velocity_commands.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+

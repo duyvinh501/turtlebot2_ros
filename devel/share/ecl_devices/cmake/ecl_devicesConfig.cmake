@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_devices/share/ecl_devices/cmake/ecl_devicesConfig.cmake

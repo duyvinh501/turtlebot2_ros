@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/ecl_mobile_robot/share/ecl_mobile_robot/cmake/ecl_mobile_robotConfig-version.cmake

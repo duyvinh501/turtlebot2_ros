@@ -1,0 +1,1 @@
+/home/vinh/catkin2_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/turtlebot_calibration-msg.asd

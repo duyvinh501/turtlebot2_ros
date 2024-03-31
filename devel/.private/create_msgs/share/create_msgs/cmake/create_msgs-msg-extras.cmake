@@ -1,0 +1,2 @@
+set(create_msgs_MESSAGE_FILES "/home/vinh/catkin2_ws/src/create_robot/create_msgs/msg/Bumper.msg;/home/vinh/catkin2_ws/src/create_robot/create_msgs/msg/ChargingState.msg;/home/vinh/catkin2_ws/src/create_robot/create_msgs/msg/DefineSong.msg;/home/vinh/catkin2_ws/src/create_robot/create_msgs/msg/Mode.msg;/home/vinh/catkin2_ws/src/create_robot/create_msgs/msg/PlaySong.msg;/home/vinh/catkin2_ws/src/create_robot/create_msgs/msg/MotorSetpoint.msg")
+set(create_msgs_SERVICE_FILES "")
